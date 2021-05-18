@@ -1,6 +1,13 @@
+## AUTHOR
+
+# Robert Okello
+
 # QUOTES
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+
+# Description
+An angular application that allows people to see quotes, up vote ,down vote on quotes and finally add their own quotes
 
 ## Development server
 
